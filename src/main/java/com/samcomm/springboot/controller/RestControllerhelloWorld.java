@@ -36,6 +36,12 @@ public class RestControllerhelloWorld {
 		
 	}
 	
+	@PostMapping(value="/create/again")
+	public Ticket createTicketanother(@RequestBody Ticket ticket) {
+		return ticketService.createTicket(ticket);
+		
+	}
+	
 	@GetMapping(value="/ticket/{ticketId}")
 	public Ticket getTicketById(@PathVariable("ticketId")Integer ticketId) {
 		
