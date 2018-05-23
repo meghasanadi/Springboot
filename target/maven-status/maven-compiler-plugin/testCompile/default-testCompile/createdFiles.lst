@@ -1,0 +1,3 @@
+com\samcomm\springboot\dao\TicketDaoTest.class
+com\samcomm\springboot\controller\TicketControllerTest.class
+com\samcomm\springboot\service\TicketServiceTest.class

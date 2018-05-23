@@ -1,0 +1,6 @@
+projectKey=com.samcomm.springboot:Springboot
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:9000/dashboard/index/com.samcomm.springboot:Springboot
+ceTaskId=AWMHG3SHlqYIYpAaT0OT
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWMHG3SHlqYIYpAaT0OT
